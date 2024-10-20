@@ -50,14 +50,14 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 ---
 
 # Test Artifacts:
-✅ [Web App Testing](https://github.com/LenaLisovskaya/Web-App-Testing);
-✅ [Mobile Testing](https://github.com/LenaLisovskaya/Mobile-testing);
-✅ [API-testing](https://github.com/LenaLisovskaya/api);
-✅ [Working with different databases](https://github.com/LenaLisovskaya/Database)
-✅ [Bash Commands](https://github.com/LenaLisovskaya/Bash)
+- ✅ [Web App Testing](https://github.com/LenaLisovskaya/Web-App-Testing);
+- ✅ [Mobile Testing](https://github.com/LenaLisovskaya/Mobile-testing);
+- ✅ [API-testing](https://github.com/LenaLisovskaya/api);
+- ✅ [Working with different databases](https://github.com/LenaLisovskaya/Database)
+- ✅ [Bash Commands](https://github.com/LenaLisovskaya/Bash)
 
 ---
 
-##How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
+## How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
 
 
