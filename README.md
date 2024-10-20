@@ -7,9 +7,9 @@
 I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
 [My CV](https://drive.google.com/file/d/1jCGzL_nE5dYjYus1V0ppxJe2tYCoG4F7/view?usp=sharing) 
 
-🤓 Сurrently studying automation with TypeScript 🎭;
-🔧 I work as QA engineer in [Soter Analytics](https://soteranalytics.com);
-✨ Learning new things about AI magic.
+- 🤓 Сurrently studying automation with TypeScript 🎭;
+- 🔧 I work as QA engineer in [Soter Analytics](https://soteranalytics.com);
+- ✨ Learning new things about AI magic.
 
 
 - 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
