@@ -9,7 +9,8 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 - 🤓 Сurrently studying automation with TypeScript 🎭;
 - 🔧 I work as QA engineer in [Soter Analytics](https://soteranalytics.com);
-- ✨ Learning new things about AI magic.
+- ✨ Learning new things about AI magic;
+- 📢 I speak English and Russian.
 
 ---
 
