@@ -25,7 +25,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 ---
 
-### 📁 Test Docomentation:
+### 📁 Test Documentation:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
