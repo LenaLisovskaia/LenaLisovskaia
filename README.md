@@ -5,11 +5,13 @@
 
 ### 👨‍💻 About myself:
 
-I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently.
+I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
+[My CV](https://drive.google.com/file/d/1jCGzL_nE5dYjYus1V0ppxJe2tYCoG4F7/view?usp=sharing) 
 
 🤓 Сurrently studying automation with TypeScript 🎭.
 
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:pulsethreshold@gmail.com)
+
+- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
 
 ---
 
@@ -84,7 +86,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 ### ✏️ 🪪 Certifications:
 
- -  Certified Tester Foundation Level (ASTQB - ISTQB in the U.S., Issued Apr 2024)
+ -  Certified Tester Foundation Level (ASTQB - ISTQB in the U.S., Issued Apr 2024)[https://drive.google.com/file/d/1b8Y1dFVfxXRtDYT_JO8i7YYPCu2A7hZD/view?usp=sharing]
 
 
 ---
