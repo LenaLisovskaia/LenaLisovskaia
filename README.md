@@ -11,9 +11,6 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 - 🔧 I work as QA engineer in [Soter Analytics](https://soteranalytics.com);
 - ✨ Learning new things about AI magic.
 
-
-- 📫 How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
-
 ---
 
 ### 🤍 My favourite tools:
@@ -58,5 +55,9 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 ✅ [API-testing](https://github.com/LenaLisovskaya/api);
 ✅ [Working with different databases](https://github.com/LenaLisovskaya/Database)
 ✅ [Bash Commands](https://github.com/LenaLisovskaya/Bash)
+
+---
+
+##How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
 
 
