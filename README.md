@@ -50,7 +50,8 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 ---
 
-# Test Artifacts:
+# Test Artefacts:
+
 - ✅ [Web App Testing](https://github.com/LenaLisovskaya/Web-App-Testing);
 - ✅ [Mobile Testing](https://github.com/LenaLisovskaya/Mobile-testing);
 - ✅ [API-testing](https://github.com/LenaLisovskaya/api);
