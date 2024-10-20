@@ -80,6 +80,8 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
   
 </div>
 
+---
+
 ### ✏️ 🪪 Certifications:
 
  -  Certified Tester Foundation Level (ASTQB - ISTQB in the U.S., Issued Apr 2024)
