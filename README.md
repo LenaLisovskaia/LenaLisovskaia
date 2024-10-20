@@ -16,7 +16,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 ---
 
-### 🔑 My favourite tools
+### 🤍 My favourite tools:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -43,20 +43,20 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 ---
 
-### ✏️ 🪪 Certifications:
+### 🪪 Certifications:
 
- -  [Certified Tester Foundation Level](https://drive.google.com/file/d/1b8Y1dFVfxXRtDYT_JO8i7YYPCu2A7hZD/view?usp=sharing)
+ -  [Certified Tester Foundation Level](https://drive.google.com/file/d/1b8Y1dFVfxXRtDYT_JO8i7YYPCu2A7hZD/view?usp=sharing);
+ -  [Udemy Mobile Application Tester](https://drive.google.com/file/d/14GpTKJ8wb3zyEBH-M7Cr6ecjnAOznSJi/view?usp=sharing);
+ -  Functional Software Testing Course
 
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+# Test Artifacts:
+✅ [Web App Testing](https://github.com/LenaLisovskaya/Web-App-Testing);
+✅ [Mobile Testing](https://github.com/LenaLisovskaya/Mobile-testing);
+✅ [API-testing](https://github.com/LenaLisovskaya/api);
+✅ [Working with different databases](https://github.com/LenaLisovskaya/Database)
+✅ [Bash Commands](https://github.com/LenaLisovskaya/Bash)
 
-| Курсы                                                           | Дата              |
-| ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
-
---- -->
