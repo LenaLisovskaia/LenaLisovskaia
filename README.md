@@ -45,7 +45,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
  -  [ISTQB - Certified Tester Foundation Level](https://drive.google.com/file/d/1b8Y1dFVfxXRtDYT_JO8i7YYPCu2A7hZD/view?usp=sharing);
  -  [Udemy Mobile Application Tester](https://drive.google.com/file/d/14GpTKJ8wb3zyEBH-M7Cr6ecjnAOznSJi/view?usp=sharing);
- -  Functional Software Testing Course
+ -  [Functional Software Testing Course](https://drive.google.com/file/d/12ocn3M7zeKqKCGBCHOqrk-zt5Q74F_W3/view?usp=sharing).
 
 
 ---
