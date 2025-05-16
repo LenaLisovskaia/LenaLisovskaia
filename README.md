@@ -7,7 +7,8 @@
 I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
 [My CV](https://drive.google.com/file/d/1hAY0VizAPL7CE5JV_EIprYtlZkKGa9n-/view?usp=sharing) 
 
-- 🤓 Сurrently studying automation with TypeScript 🎭;
+- 🤓 Сurrently studying Python/Seleneim;
+- 🎭 Junior AQA TypeScript/Playwright;
 - 🔧 I work as QA engineer in [Soter Analytics](https://soteranalytics.com);
 - ✨ Learning new things about AI magic;
 - 📢 I speak English and Russian.
