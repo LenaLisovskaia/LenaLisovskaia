@@ -5,7 +5,7 @@
 ### ⏯ About myself:
 
 I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
-[My CV](https://drive.google.com/file/d/1hAY0VizAPL7CE5JV_EIprYtlZkKGa9n-/view?usp=sharing) 
+[My CV](https://docs.google.com/document/d/1XhiWCB3DlTMhpurA9mvPUWpmqRjdnwd7hVEyB2xuZGY/edit?tab=t.0) 
 
 - 🤓 Сurrently studying Python/Seleneim;
 - 🎭 Junior AQA TypeScript/Playwright;
