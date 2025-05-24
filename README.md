@@ -61,6 +61,6 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 ---
 
-## How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaya-66807b243/)
+## How to contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@lenalisovskaia-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elena-lisovskaia-66807b243/)
 
 
