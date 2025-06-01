@@ -34,7 +34,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
   <img src="https://awsmp-logos.s3.amazonaws.com/0ed7b11e-a954-4759-b706-255abb673d4c/019d31123782932ac3e85ee51c6e1f63.png" title="Dbeaver" alt="Dbeaver" width="120" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
    <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" title="supabase" alt="supabase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src= "https://playwright.dev/img/playwright-logo.svg" title="playwright" alt="playwright" width="40" height="40"/>&nbsp
