@@ -9,7 +9,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 
 - 🤓 Сurrently studying Python/Seleneim;
 - 🎭 Junior AQA TypeScript/Playwright;
-- 🔧 I work as AQA engineer in [Soter Analytics](https://soteranalytics.com);
+- 🔧 I work as AQA engineer in [Soter](https://soteranalytics.com);
 - ✨ Learning new things about AI magic;
 - 📢 I speak English and Russian.
 
@@ -38,7 +38,7 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src= "https://playwright.dev/img/playwright-logo.svg" title="playwright" alt="playwright" width="40" height="40"/>&nbsp
-  
+  <img src= "https://pbs.twimg.com/profile_images/1711816706874540032/z07hmQEH_400x400.png" title="v0" alt="v0" width="40" height="40"/>&nbsp
   
 </div>
 
