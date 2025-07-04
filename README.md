@@ -4,7 +4,8 @@
 
 ### ⏯ About myself:
 
-I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
+QA Engineer experienced in testing web and mobile applications, UI/UX, smoke, regression, exploratory testing, and backend/API validation. Passionate about quality and working on AI-powered platforms and exploring how technology can support creative or human-centered workflows. 
+I enjoy breaking things in hopes of making them better.
 [My CV](https://drive.google.com/file/d/1n4LG_2ob2KNVmwxNwZHABQ0LTgPzcVio/view?usp=sharing) 
 
 - 🤓 Open to opportunities;
