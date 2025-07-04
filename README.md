@@ -7,11 +7,11 @@
 I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
 [My CV](https://docs.google.com/document/d/1XhiWCB3DlTMhpurA9mvPUWpmqRjdnwd7hVEyB2xuZGY/edit?tab=t.0) 
 
-- 🤓 Сurrently studying Python/Seleneim;
-- 🎭 Junior AQA TypeScript/Playwright;
-- 🔧 I work as AQA engineer in [Soter](https://soteranalytics.com);
+- 🤓 Сurrently studying Python/Seleneim/Pycharm;
+- 🎭 AQA TypeScript/Playwright;
 - ✨ Learning new things about AI magic;
-- 📢 I speak English and Russian.
+- 📢 I speak English and Russian;
+- 🚲 I dream of buying a bicycle soon.
 
 ---
 
@@ -33,12 +33,13 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
   <img src="https://awsmp-logos.s3.amazonaws.com/0ed7b11e-a954-4759-b706-255abb673d4c/019d31123782932ac3e85ee51c6e1f63.png" title="Dbeaver" alt="Dbeaver" width="120" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-   <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" title="supabase" alt="supabase" width="40" height="40"/>&nbsp
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" title="supabase" alt="supabase" width="40" height="40"/>&nbsp
   <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" title="github" alt="github" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src= "https://playwright.dev/img/playwright-logo.svg" title="playwright" alt="playwright" width="40" height="40"/>&nbsp
   <img src= "https://pbs.twimg.com/profile_images/1711816706874540032/z07hmQEH_400x400.png" title="v0" alt="v0" width="40" height="40"/>&nbsp
+  
   
 </div>
 
@@ -50,16 +51,6 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
  -  [Udemy Mobile Application Tester](https://drive.google.com/file/d/14GpTKJ8wb3zyEBH-M7Cr6ecjnAOznSJi/view?usp=sharing);
  -  [Functional Software Testing Course](https://drive.google.com/file/d/12ocn3M7zeKqKCGBCHOqrk-zt5Q74F_W3/view?usp=sharing).
 
-
----
-
-# Test Artefacts:
-
-- ✅ [Web App Testing](https://github.com/LenaLisovskaya/Web-App-Testing);
-- ✅ [Mobile Testing](https://github.com/LenaLisovskaya/Mobile-testing);
-- ✅ [API-testing](https://github.com/LenaLisovskaya/api);
-- ✅ [Working with different databases](https://github.com/LenaLisovskaya/Database)
-- ✅ [Bash Commands](https://github.com/LenaLisovskaya/Bash)
 
 ---
 
