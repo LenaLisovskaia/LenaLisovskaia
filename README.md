@@ -6,6 +6,7 @@
 
 QA Engineer experienced in testing web and mobile applications, UI/UX, smoke, regression, exploratory testing, and backend/API validation. Passionate about quality and working on AI-powered platforms and exploring how technology can support creative or human-centered workflows. 
 I enjoy breaking things in hopes of making them better.
+
 [My CV](https://drive.google.com/file/d/1n4LG_2ob2KNVmwxNwZHABQ0LTgPzcVio/view?usp=sharing) 
 
 - 🤓 Open to opportunities;
