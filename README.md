@@ -7,10 +7,10 @@
 I am QA Engineer with expertise in web application testing (front-end and back-end) and mobile testing. Skilled in software testing, quality assurance, and manual testing strategies. Proven ability to enhance product quality, reduce the number of bugs, and improve testing processes through meticulous attention to detail and writing comprehensive test documentation. Team player with experience in collaborating with development and support teams to resolve issues efficiently. 
 [My CV](https://docs.google.com/document/d/1XhiWCB3DlTMhpurA9mvPUWpmqRjdnwd7hVEyB2xuZGY/edit?tab=t.0) 
 
-- 🤓 Сurrently studying Python/Seleneim/Pycharm;
+- 🤓 Open to opportunities;
 - 🎭 AQA TypeScript/Playwright;
 - ✨ Learning new things about AI magic;
-- 📢 I speak English and Russian;
+- 📢 I speak English, Russian and Swedish (just a bit);
 - 🚲 I dream of buying a bicycle soon.
 
 ---
@@ -39,8 +39,8 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl4fp0SkQbTPU5ZxVl6AKWYuKCwM0gIhNtQ&s" title="docker" alt="docker" width="40" height="40"/>&nbsp
   <img src= "https://playwright.dev/img/playwright-logo.svg" title="playwright" alt="playwright" width="40" height="40"/>&nbsp
   <img src= "https://pbs.twimg.com/profile_images/1711816706874540032/z07hmQEH_400x400.png" title="v0" alt="v0" width="40" height="40"/>&nbsp
-  
-  
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="selenium webdriver" alt="selenium webdriver" width="40" height="40"/>&nbsp   
 </div>
 
 ---
@@ -48,7 +48,6 @@ I am QA Engineer with expertise in web application testing (front-end and back-e
 ### 🪪 Certifications:
 
  -  [ISTQB - Certified Tester Foundation Level](https://drive.google.com/file/d/1b8Y1dFVfxXRtDYT_JO8i7YYPCu2A7hZD/view?usp=sharing);
- -  [Udemy Mobile Application Tester](https://drive.google.com/file/d/14GpTKJ8wb3zyEBH-M7Cr6ecjnAOznSJi/view?usp=sharing);
  -  [Functional Software Testing Course](https://drive.google.com/file/d/12ocn3M7zeKqKCGBCHOqrk-zt5Q74F_W3/view?usp=sharing).
 
 
